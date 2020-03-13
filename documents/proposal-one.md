@@ -41,8 +41,18 @@ syndicate'
 
 * If a shutdown were to occur, the crypto market would be flooded with some 2.4 million ETH even as the asset’s value plummets amid broader market turmoil.
 
+## Administration
+
+Chair: [chair_person](mailto:#)
+Secretary [secretary_person](mailto:#)
+Adminstrative [admin_person](mailto:#)
+Technical: [tech_person](mailto:#)
+
+Observer <1,2,3,..>
+
 ### Syndicate Participants
 
+*preliminary*
 Dharma
 Erasure
 Brendan Forster, Co-founder, Dharma
@@ -94,6 +104,16 @@ Graeme, Dharma
 Ivan Martinez, Prysmatic Labs
 Imran Khan, Volt Capital
 
+
+## Citations and Sources
+
+[DAI Stats](https://daistats.com/)
+DAI: An ERC-20 Token, [0x6B175474E89094C44Da98b954EedeAC495271d0F](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f)
+MKR: An ERC-20 Token, [0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2)
+
+[DAI Outstanding](https://explore.duneanalytics.com/queries/1439#2469)
+
+[DeFi Rankings via DeFi Pulse](https://defipulse.com/)
 
 # License
 MIT
