@@ -29,6 +29,8 @@ version 2020.03.13
 - MakerDAO Auction should be successful without "SPE" intervention
 - Should Auction 'fail', "SPE" shall intervene in said auction and participate using funds provided by the 
 syndicate'
+- Should the 'SPE' not be utilized, funds shall be returned within <x amount of y days>
+- Should the 'SPE' participate in the auction, distributions of *MKR* shall be distributed within <x amount of y days>
 
 <define: what is considered a sucessful auction>
 
