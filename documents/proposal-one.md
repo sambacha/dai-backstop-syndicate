@@ -11,7 +11,7 @@ version 2020.03.13
 
 ## Terms
 - Syndicate: Shall Reference 'DAI Backstop Syndicate Community Organizers'
-- Special Purpose Entity: The instrument by which the 'syndicate' acts through 
+- Special Purpose Entity: The instrument by which the 'syndicate' acts through, abbr. 'SPE'
 - Lender of Last Resort: 
 - DAI: An ERC-20 Token, [0x6B175474E89094C44Da98b954EedeAC495271d0F](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f)
 - MKR: An ERC-20 Token, [0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2)
@@ -44,6 +44,44 @@ syndicate'
 * Estimated that at least $4 million of its dollar-pegged dai stablecoin not backed by an underlying crypto asset, according to a stakeholder call held Thursday.
 
 * If a shutdown were to occur, the crypto market would be flooded with some 2.4 million ETH even as the asset’s value plummets amid broader market turmoil.
+
+
+# Implementation 
+This is the specific guidelines and contractual outline of 'proposal one'
+
+## Technical 
+see the [Github repo](https://github.com/backstop-syndicate/dai-backstop-syndicate)
+
+## Financial 
+
+### Funding the "SPE" 
+Denominations of funds are to be priced in *United States Dollar*. 
+By Participating in "SPE" you affirm that you have the legal right to said funds and to fund so
+
+### Participation Rights
+By funding the Syndicate and its constituate 'SPE' you agree to 
+
+### Unwinding of Positions
+
+### Distribution of Funds in the event of Participation in Auction
+
+### Distribution of Funds in the event of Non-Participation in Auction
+Obligation to return funds to original senders
+
+### Usage of Funds beyond Participation in Auction
+Besides Gas Costs for Sending Transactions, No Funds shall be used besides the stated explicted purpose of 'SPE'.
+
+## Legal 
+
+### Additional Details
+Placeholder
+
+### Indemnification Clause
+Fiduciary Duty Exemption
+Placeholder
+
+### Jurisdiction
+Placeholder // State of Delaware, USA? 
 
 ## Administration
 
