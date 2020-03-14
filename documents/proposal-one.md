@@ -16,8 +16,13 @@ version 2020.03.13
 - DAI: An ERC-20 Token, [0x6B175474E89094C44Da98b954EedeAC495271d0F](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f)
 - MKR: An ERC-20 Token, [0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2)
 - MakerDAO: A protocol that creates DAI loans when users load ETH into the system as collateral. MakerDAO then automatically sells that collateral when the market price changes in order to get DAI off the market until the system hits its 150 percent collateral target. 
-- <syndicate_contract_address>
-- <syndicate_wallet_addresses>
+- Sufficient: condition A is said to be sufficient for a condition B, if (and only if) the truth (/existence /occurrence) [as the case may be] of A guarantees (or brings about) the truth (/existence /occurrence) of B.
+- Necessary: condition A is said to be necessary for a condition B, if (and only if) the falsity (/nonexistence /non-occurrence) [as the case may be] of A guarantees (or brings about) the falsity (/nonexistence /non-occurrence) of B.
+
+## On-Chain 
+
+- syndicate_contract_address
+- syndicate_wallet_addresses
 
 ## Objectives
 - Establish a 'Syndicate' in which pooled resources can be put together
@@ -45,6 +50,7 @@ syndicate'
 
 * If a shutdown were to occur, the crypto market would be flooded with some 2.4 million ETH even as the asset’s value plummets amid broader market turmoil.
 
+* Necessary conditions for participation in MakerDAO Auction shall be the non-occurance of a viable auction at {specific_date_for_makerdao_auction}
 
 # Implementation 
 This is the specific guidelines and contractual outline of 'proposal one'
@@ -70,6 +76,17 @@ Obligation to return funds to original senders
 
 ### Usage of Funds beyond Participation in Auction
 Besides Gas Costs for Sending Transactions, No Funds shall be used besides the stated explicted purpose of 'SPE'.
+
+## Necessary 
+
+
+## Sufficient 
+
+Definition: A condition A is said to be sufficient for a condition
+B, if (and only if) the truth (/existence /occurrence) [as the case
+may be] of A guarantees (or brings about) the truth (/existence
+/occurrence) of B.
+
 
 ## Legal 
 
@@ -147,15 +164,29 @@ Ivan Martinez, Prysmatic Labs<br>
 Imran Khan, Volt Capital<br>
 
 <br>
+
 ## Citations and Sources
 
 [DAI Stats](https://daistats.com/)<br>
 DAI: An ERC-20 Token, [0x6B175474E89094C44Da98b954EedeAC495271d0F](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f)<br>
 MKR: An ERC-20 Token, [0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2](https://etherscan.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2)<br>
-
 [DAI Outstanding](https://explore.duneanalytics.com/queries/1439#2469)<br>
-
 [DeFi Rankings via DeFi Pulse](https://defipulse.com/)<br>
+[ISO 8601](https://www.w3.org/TR/NOTE-datetime)
+
+### In Text 
+{specific_date_for_makerdao_auction}: a date following ISO 8601 format (YYYY-MM-DDThh:mmTZD)
+
+Where as: 
+ YYYY = four-digit year
+     MM   = two-digit month (01=January, etc.)
+     DD   = two-digit day of month (01 through 31)
+     hh   = two digits of hour (00 through 23) (am/pm NOT allowed)
+     mm   = two digits of minute (00 through 59)
+     ss   = two digits of second (00 through 59)
+     s    = one or more digits representing a decimal fraction of a second
+     TZD  = time zone designator (Z or +hh:mm or -hh:mm)
+
 
 # License
 MIT
