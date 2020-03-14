@@ -1,5 +1,7 @@
 # Proposal One
 
+<img src="https://raw.githubusercontent.com/backstop-syndicate/dai-backstop-syndicate/master/logos/BDS-logo-w-name.png" alt="DAI Backstop Syndicate" height="420px">
+
 <pre>
 title: Proposal for creation of a SPE to ensure MakerDAO Auction Success
 author: DAI Backstop Syndicate

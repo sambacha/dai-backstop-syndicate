@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/backstop-syndicate/dai-backstop-syndicate/master/logos/BDS-logo-w-name.png" alt="DAI Backstop Syndicate" height="420px">
+
 <pre>
 title: MakerDAO Backstop Syndicate
 author: Brendan Forster, et al
